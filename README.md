@@ -1,4 +1,4 @@
-# server_inventory
+# Server Inventory Shell Script
 A Simple Bash Script to enumerate server information and save in a (.csv) file.
 
 . Works on : 
